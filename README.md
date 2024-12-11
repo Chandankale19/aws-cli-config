@@ -39,9 +39,9 @@ To install or update AWS CLI using this script, follow these steps:
 2. Make the script executable:
 
    ```bash
-   chmod +x install_or_update_aws_cli.sh
+   chmod +x install_aws_cli_latest.sh
 
 3. Run the script with sudo:
 
    ```bash
-   sudo ./install_or_update_aws_cli.sh
+   sudo bash install_aws_cli_latest.sh
