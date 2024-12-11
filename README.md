@@ -33,7 +33,7 @@ To install or update AWS CLI using this script, follow these steps:
 1. Clone the repository or download the script directly:
 
    ```bash
-   git clone https://github.com/your-repo/aws-cli-installer.git
+   git clone https://github.com/Chandankale19/aws-cli-install.git
    cd aws-cli-installer
 
 2. Make the script executable:
